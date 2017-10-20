@@ -2,5 +2,26 @@
     <string name="app_name">Preguntame</string>
 
     <!--MAIN ACTIVITY-->
-    <string name="main_title">Preguntame</string>
+    <string name="main_title">¡Preguntame!</string>
+
+    <!--SPLASH ACTIVITY-->
+    <string name="splash_login">Iniciar Sesion</string>
+    <string name="splash_logon">Registrarse</string>
+
+    <!--LOGIN ACTIVITY-->
+    <string name="login_email">Correo</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_start">Iniciar</string>
+    <string name="login_cancel">Cancelar</string>
+    <string name="login_title">Iniciar Sesion</string>
+
+    <!--LOGIN ACTIVITY-->
+    <string name="logon_title">Registrarse</string>
+
+    <!--EDIT TEXT HINT-->
+    <string name="hint_name">Nombre</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_phone">Telefono</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_re_password">Repetir contraseña</string>
 </resources>
